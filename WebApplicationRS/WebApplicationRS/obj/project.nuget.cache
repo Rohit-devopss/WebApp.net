@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iszlW5CjrafB2NOctW2iuBpIzUqDgCICVc8WMiLHFpyVG3AD5xg8ax2178IJ+Oy1C1yXr0IuRv6dMlP6idCDXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohit Shinde\\source\\repos\\WebApp.net\\WebApplicationRS\\WebApplicationRS\\WebApplicationRS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit Shinde\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
